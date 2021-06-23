@@ -1,11 +1,11 @@
 # Basic
-title: 潘柏信
+title: 何文俊
 subtitle: 个人站
 description: 欢迎来到我的个人站~
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: hewenjun
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
+avatarDesc: Stats / Machine Learning
 url: "https://leopardpan.cn"
 
 # 博客是否自动生成目录，false为不生成
@@ -14,18 +14,18 @@ enableToc: true
 # Comment
 comment:
     # livere: MTAyMC81MDk5NC8yNzQ3Ng  # https://www.livere.com
-    disqus: leopard
+    disqus: wenjun
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
+    # weibo: 5366874726 
+    github: wenjun-he
     # zhihu: panpanleopard
     # juejin: xxx
-    jianshu: 2ada30d8d0f7
+    # jianshu: 2ada30d8d0f7
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: onedream1216@163.com
 
 
 # 百度统计 
