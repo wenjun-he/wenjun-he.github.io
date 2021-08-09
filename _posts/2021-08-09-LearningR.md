@@ -5,7 +5,8 @@ date: 2021-08-09
 tags: markdown    
 ---
 
-# Using R in an elegant way
+## Using R in an elegant way
+
 ### To check all the packages installed
 ```R
 packages = c("MLmetrics","boot")
@@ -18,4 +19,9 @@ package.check <- lapply(
     }
   }
 )
+```
+
+### Get the directory of current R script
+```R
+dirname(rstudioapi::getSourceEditorContext()$path)
 ```
