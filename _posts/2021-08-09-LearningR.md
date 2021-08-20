@@ -39,3 +39,7 @@ ggplot(data, aes(x = x_variable,fill=arm)) +
   theme_classic()
 ggsave("save.pdf", device = "pdf")
 ```
+
+### Others
+
+*  To check some useful functions in [Cookbook for R](https://openbiox.github.io/Cookbook-for-R-Chinese/index.html)
