@@ -25,3 +25,17 @@ package.check <- lapply(
 ```R
 dirname(rstudioapi::getSourceEditorContext()$path)
 ```
+
+### Examples to plot and save
+```R
+# Plot to the console and then save as the pdf file
+ggplot(data, aes(x = x_variable,fill=arm)) + 
+  geom_histogram(binwidth = 0.1,position ="dodge",alpha=0.3)+
+  geom_density(alpha=0.5,adjust=0.2,size=0.3) + 
+  facet_grid(arm ~.) +
+  scale_fill_discrete(name = "Experimental\nCondition", labels = c("Control","Treatment"))+
+  xlab("Adherence of T1")+
+  ylab("Count")+
+  theme_classic()
+ggsave("save.pdf", device = "pdf")
+```
