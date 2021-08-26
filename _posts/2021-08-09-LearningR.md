@@ -26,6 +26,20 @@ package.check <- lapply(
 dirname(rstudioapi::getSourceEditorContext()$path)
 ```
 
+### Use the character to build the formula
+```R
+formula_character <- paste("Surv(", "variable1", ",", "variable2", ")~")
+fmla <- as.formula(paste(formula_character,paste("variable3", collapse = "+")))
+```
+
+### When the KM curve crossed in survival analysis
+```R
+# R package (ComparisonSurv)
+crosspoint()
+Long.test()
+Short.test()
+```
+
 ### Examples to plot and save
 ```R
 # Plot to the console and then save as the pdf file
@@ -43,3 +57,4 @@ ggsave("save.pdf", device = "pdf")
 ### Others
 
 *  To check some useful functions in [Cookbook for R](https://openbiox.github.io/Cookbook-for-R-Chinese/index.html)
+*  When conducting analysis, it is a good way to maintain a R scripts containing the functions mostly used.
