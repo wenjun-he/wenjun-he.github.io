@@ -18,3 +18,9 @@ tags: markdown
 * [技术面试手册](https://techinterviewhandbook.org/)
 
 工程师如何准备技术面试的英文免费电子书，全书分成两部分：面试本身的准备和技术知识的准备。GitHub 有5万多颗星。
+
+## 网络资源
+
+* [电子书教材搜索平台](https://libgen.rs/)
+
+能搜索到比较使用的领域内学科电子书
