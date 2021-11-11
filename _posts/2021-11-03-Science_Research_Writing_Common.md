@@ -12,7 +12,7 @@ tags: markdown
     - B:The results of one experiment determines what the next experiment will be
 
 # Stragedy or Order of Research Writing
->* Figures and Tables
+>* Figures and Tables   
 >* Results
 >* Title
 >* Methods
