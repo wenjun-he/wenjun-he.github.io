@@ -124,8 +124,29 @@ Example of *Antiviral Agents*:
 ![](/images/blog/ex_pubmed.png)
 
 
-# Biblimetrix Analysis
+# 文献计量分析
+## Three-Fileds-Plot
 
+桑基图-是使用数据流量进行可视化分析的图表。线条的宽度变化，通过线条宽度变化可以了解数据变化情况。
+ - 线条的走向，也就是数据流的走向，我们需要根据线条走向进行数据流变化分析。
+ - 线条的宽度变化，通过线条宽度变化可以了解数据变化情况。
+
+ ## 文献期刊分析
+ ### Most Relevant Sources
+ ### Most Local Cited Sources
+ ### Source Impact
+ ### Source Dynamic
+ ## 作者分析
+ ### Most Relevant Authors
+ ### Most Local Cited Authors
+ ### Authors' Production over Time
+ ### Lotka's law
+ ### Author Impact
+ ### Most Relevant Affiliations
+ ### Corresponding Author's Country
+ ### Country Scientific Production
+ ### Most Cited Countries
+ ## 文件分析
 # References
 >* https://libguides.vu.nl/PMroadmap/introduction
 
