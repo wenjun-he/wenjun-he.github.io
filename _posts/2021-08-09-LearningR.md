@@ -57,4 +57,5 @@ ggsave("save.pdf", device = "pdf")
 ### Others
 
 *  To check some useful functions in [Cookbook for R](https://openbiox.github.io/Cookbook-for-R-Chinese/index.html)
-*  When conducting analysis, it is a good way to maintain a R scripts containing the functions mostly used.
+* When seleting the color for ggplot2, please refer this [website](https://colorbrewer2.org/)
+* When conducting analysis, it is a good way to maintain a R scripts containing the functions mostly used.
