@@ -5,7 +5,7 @@ title: 关于我
 
 # Experiences 
 
-## Algorithm Engineer
+## Algorithm Engineer in Huawei
 
 **Company**: Huawei
 
@@ -31,7 +31,7 @@ Other projects including building the pipelines of basecalling(guppy), variant c
 
 
 
-## Statistical Programmer
+## Statistical Programmer in PAREXEL
 
 **Company**: PAREXEL
 
@@ -46,7 +46,7 @@ Other projects including building the pipelines of basecalling(guppy), variant c
 **Content**:
 Using SAS to process clinical trial data and generate the statistical analysis report.
 
-## Intern
+## Intern in CDC
 
 **Company**: GUANGZHOU CENTER FOR DISEASE CONTROL AND PREVENTION 
 
@@ -61,7 +61,7 @@ Using SAS to process clinical trial data and generate the statistical analysis r
 **Content**:
 Intern at departments including Department of AIDS Prevention and Control, Department of Infectious Disease Prevention and Control, etc.
 
-## Clinical Intern
+## Clinical Intern in ZhuJiang Hospital 
 
 **Company**: ZhuJiang Hospital of Southern Medical University 
 **Position**: Internship
