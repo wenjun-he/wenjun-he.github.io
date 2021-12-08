@@ -1,16 +1,22 @@
 ---
-layout: page
+layout: post
 title: 关于我 
 ---
 
 # Experiences 
 
 ## Algorithm Engineer
+
 **Company**: Huawei
+
 **Position**: Contract
+
 **Dates**: 2018 – 2021
+
 **Employment Duration** : 3 yrs
+
 **Location**: Shenzhen, Guangdong, China
+
 **Content**:
 I worked in the Health Intelligent Twins & Enterprise Intelligence Department, in Huawei Cloud. Its field of research is to promote the implementation of deep learning in genomics, computer-aided drug design, and medical imaging.
 
@@ -26,33 +32,51 @@ Other projects including building the pipelines of basecalling(guppy), variant c
 
 
 ## Statistical Programmer
+
 **Company**: PAREXEL
+
 **Position**: Internship
+
 **Dates**: Apr 2018 – Jun 2018
+
 **Employment Duration** : 3 mos
+
 **Location**: Guangzhou, Guangdong, China
+
 **Content**:
 Using SAS to process clinical trial data and generate the statistical analysis report.
 
 ## Intern
+
 **Company**: GUANGZHOU CENTER FOR DISEASE CONTROL AND PREVENTION 
+
 **Position**: Internship
+
 **Dates**: 2015 – May 2015
+
 **Employment Duration** : 3 mos
+
 **Location**: Guangzhou, Guangdong, China
+
 **Content**:
 Intern at departments including Department of AIDS Prevention and Control, Department of Infectious Disease Prevention and Control, etc.
 
 ## Clinical Intern
+
 **Company**: ZhuJiang Hospital of Southern Medical University 
 **Position**: Internship
+
 **Dates**: 2013 – Jan 2014
+
 **Employment Duration** : 7 mos
+
 **Location**: Guangzhou, Guangdong, China
 **Content**:
+
 Clinical Intern Department: General surgery，Cardiology Department， Obstetrics and Gynecology, Emergency Department and Department of Dermatology and Venereology
 
 # Education  
+
 >* **Southern Medical University**  PhD of Public Policy and Health Management   *2021-*
 >* **Sun Yat-sen University**  Master of Epidemiology and Health Statistics *2015-2018*
 >* **Southern Medical University**  Bachelor of Preventive Medicine *2010-1015*
