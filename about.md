@@ -71,6 +71,7 @@ Intern at departments including Department of AIDS Prevention and Control, Depar
 **Employment Duration** : 7 mos
 
 **Location**: Guangzhou, Guangdong, China
+
 **Content**:
 
 Clinical Intern Department: General surgery，Cardiology Department， Obstetrics and Gynecology, Emergency Department and Department of Dermatology and Venereology
