@@ -3,31 +3,59 @@ layout: page
 title: 关于我 
 ---
 
-一个工作6年的 iOS SDK 开发者，在一家游戏公司做SDK开发和维护。
+# Experiences 
 
-除了iOS技术，我还一直维护着这个博客，懂一些前端的基础知识。
+## Algorithm Engineer
+**Company**: Huawei
+**Position**: Contract
+**Dates**: 2018 – 2021
+**Employment Duration** : 3 yrs
+**Location**: Shenzhen, Guangdong, China
+**Content**:
+I worked in the Health Intelligent Twins & Enterprise Intelligence Department, in Huawei Cloud. Its field of research is to promote the implementation of deep learning in genomics, computer-aided drug design, and medical imaging.
 
-平时喜欢用python写一些工具，能用工具做的事情坚决不用人工去操作。
+My main activity was to apply Deep Learning techniques for gene variant calling, medical image-assisted diagnosis, and virtual drug screening.
 
-<h2> 我们的博客 </h2>  
+The main project in which I was involved was a Tensorflow-based AutoML Framework named [AutoGenome](https://doi.org/10.1101/842526), which enables the developer to learn the deep learning framework automatically based on the structured gene data. I was responsible of developing, together with a PhD college, the basic framework, algorithmic part of the system:
+Architecture design, network search(define ENAS, ResNet, DenseNet, MLP), model interpretability.
 
-这个博客是我们大家的，目前已经有很大一部分人在使用我的博客模板了，我也很高兴大家使用我的模板。
+The second worth saying project was using a Large-scale computer cluster for computer-aided drug screening to fight against Covid-19. I was responsible to use k8s cluster to manage more than 200 machines to screen the potential molecular from ZINC, DrugBank, Unichem database basing on the docking with Mpro and Spike protein. Pls look at the [paper](https://doi.org/10.1021/acs.jcim.0c00821)
 
-如果你想搭建一个跟我一样的博客，可以看我的 
-<a href="/2016/10/jekyll_tutorials1/"> Jekyll 搭建个人博客 </a>
-教程
-
-
-有关于博客主题的建议和意见都可以提给我，让我们一起来打造一个精美的主题吧~ 
-
-博客源码在 <a target="_blank" href='https://github.com/leopardpan/leopardpan.github.io/'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
+Other projects including building the pipelines of basecalling(guppy), variant calling(gatk4, parabricks, deepvariant), reference assembly(medaka) and quality control using kubenetes system for the gene project, using the computer vision algorithm for lung cancer detection , facial recognition, pedestrian traffic statistics and video synopsis.
 
 
-<h3> 搭建博客遇到了问题解法方法 </h3>  
 
-查看 [技术支持](https://leopardpan.cn/support/) 需求帮助
+## Statistical Programmer
+**Company**: PAREXEL
+**Position**: Internship
+**Dates**: Apr 2018 – Jun 2018
+**Employment Duration** : 3 mos
+**Location**: Guangzhou, Guangdong, China
+**Content**:
+Using SAS to process clinical trial data and generate the statistical analysis report.
 
-博客模板会一直持续更新，请持续关注我，谢谢~
+## Intern
+**Company**: GUANGZHOU CENTER FOR DISEASE CONTROL AND PREVENTION 
+**Position**: Internship
+**Dates**: 2015 – May 2015
+**Employment Duration** : 3 mos
+**Location**: Guangzhou, Guangdong, China
+**Content**:
+Intern at departments including Department of AIDS Prevention and Control, Department of Infectious Disease Prevention and Control, etc.
+
+## Clinical Intern
+**Company**: ZhuJiang Hospital of Southern Medical University 
+**Position**: Internship
+**Dates**: 2013 – Jan 2014
+**Employment Duration** : 7 mos
+**Location**: Guangzhou, Guangdong, China
+**Content**:
+Clinical Intern Department: General surgery，Cardiology Department， Obstetrics and Gynecology, Emergency Department and Department of Dermatology and Venereology
+
+# Education  
+>* **Southern Medical University**  PhD of Public Policy and Health Management   *2021-*
+>* **Sun Yat-sen University**  Master of Epidemiology and Health Statistics *2015-2018*
+>* **Southern Medical University**  Bachelor of Preventive Medicine *2010-1015*
 
 {% include comments.html %}
 
