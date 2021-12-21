@@ -17,3 +17,6 @@ tags: markdown
 
 ### 如何在本地配置多个GitHub账号
 >* [教程](https://www.jianshu.com/p/b15f2b5d87c6)
+
+### 如何利用heirloom-mailx在linux中通过发送邮件
+>* [教程](https://www.yisu.com/zixun/4181.html)
