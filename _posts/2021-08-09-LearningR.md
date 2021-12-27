@@ -53,7 +53,18 @@ ggplot(data, aes(x = x_variable,fill=arm)) +
   theme_classic()
 ggsave("save.pdf", device = "pdf")
 ```
-
+### get function to exchange the character into variable name
+```R
+plot_bar <- function(dataframe, var_plot, var_group, cha_xlab, cha_scale, title){
+  ggplot(data=dataframe,mapping=aes(x=forcats::fct_infreq(get(var_group)), fill=get(var_plot))) +
+    geom_bar(stat="count",position="dodge")+
+    xlab(cha_xlab)+
+    ggtitle(title)+
+    scale_fill_discrete(name = cha_scale)+
+    theme_classic()+
+    theme(axis.text.x = element_text(angle = 60, hjust = 0.5, vjust = 0.5))
+}
+```
 ### Others
 
 *  To check some useful functions in [Cookbook for R](https://openbiox.github.io/Cookbook-for-R-Chinese/index.html)

@@ -10,6 +10,10 @@ tags: markdown
 
 商务部网站提供全世界各国的《国别指南》，PDF 文件免费下载，详细介绍各国基本情况，内容非常实用。
 
+* [中国古籍保护网](http://www.nlc.cn/pcab/zy/zhgj_zyk/)
+
+国家图书馆的项目，整理保存至今的中华古籍，做成数据库可以搜索，并且提供扫描版在线阅读。
+
 ## 科学
 * [交互式线性代数](http://textbooks.math.gatech.edu/ila/index.html)
 
@@ -24,3 +28,4 @@ tags: markdown
 * [电子书教材搜索平台](https://libgen.rs/)
 
 能搜索到比较使用的领域内学科电子书
+

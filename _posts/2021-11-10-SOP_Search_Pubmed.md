@@ -125,6 +125,20 @@ Example of *Antiviral Agents*:
 
 
 # 文献计量分析
+
+## 相关定义
+>* [Bradford's Law](https://zh.wikipedia.org/wiki/%E6%96%87%E7%8D%BB%E8%A8%88%E9%87%8F%E5%AD%B8):发现经常被引用的论文出自少数期刊，这些经常有论文被引用的期刊称之为核心期刊，其与边际期刊之数量呈现1：a：a平方的关系，亦即有报酬率递减的现象。换言之，特定学科之最相关文献集中于少数的核心期刊之中。此结果可作为图书馆在做馆藏发展和馆藏评鉴时的依据，在馆藏发展时，应先将核心期刊列为优先采访的对象，若有剩下预算，再依序进行边际期刊的购买；在馆藏评鉴时，则可根据该馆在各学科当中收录了多少核心期刊，来评断其馆藏品质优劣。
+>* Most Local Cited Documents：在当前数据集中高被引文献
+>* Most Local Cited References：在当前数据集中高被引的参考文献
+>* Reference Spectroscopy：每年参考文献的数量
+>* Most Frequent Words：高频词
+>* WordCloud：词云
+>* TreeMap：树图
+>* Word Dynamics：词出现次数，展示词变化趋势
+>* Trend Topics：根据今年词出现频次推测热点话题
+>* KeyWords Plus: 领域关键词
+
+
 ## Three-Fileds-Plot
 
 桑基图-是使用数据流量进行可视化分析的图表。线条的宽度变化，通过线条宽度变化可以了解数据变化情况。
